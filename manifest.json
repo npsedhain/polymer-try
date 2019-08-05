@@ -1,0 +1,6 @@
+{
+  "name": "card",
+  "short_name": "card",
+  "start_url": "/",
+  "display": "standalone"
+}
